@@ -1,0 +1,20 @@
+{
+    "vk": {
+        "token": "<your token>",
+        "prefix": "<use this format: [club213465653|@s8sko]>"
+    },
+    "netschool": {
+        "login": "<login>",
+        "password": "<password>",
+        "school": "<school name>",
+        "api": "<api address, usually the root address>"
+    },
+    "output": {
+        "replace": {
+            "Основы духовно-нравственной культуры народов России": "ОДНКНР",
+            "История и культура Республики Коми (фак.)": "ИРК",
+            "Физическая культура": "Физ-ра",
+            "Родная (русская) литература": "Родная литература"
+        }
+    }
+}

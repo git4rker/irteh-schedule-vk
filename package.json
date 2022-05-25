@@ -1,0 +1,33 @@
+{
+  "name": "irteh-schedule-vk",
+  "version": "1.0.0",
+  "description": "Application to track daybook schedule in ИРТЕХ daybooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unicod3r/irteh-schedule-vk.git"
+  },
+  "keywords": [
+    "daybook",
+    "irteh",
+    "vk",
+    "vkapi",
+    "netschoolapi"
+  ],
+  "author": "unicod3r",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/Unicod3r/irteh-schedule-vk/issues"
+  },
+  "homepage": "https://github.com/Unicod3r/irteh-schedule-vk#readme",
+  "dependencies": {
+    "easyvk": "^2.2.15",
+    "moment": "^2.29.3",
+    "moment-timezone": "^0.5.34",
+    "netschoolapi": "^1.7.0",
+    "node-vk-bot-api": "^3.5.0"
+  }
+}
